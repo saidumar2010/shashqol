@@ -2,6 +2,7 @@ body {
     font-family: "Open Sans", sans-serif;
     text-align: center;
     margin: 0;
+    background: linear-gradient(to left, #000, #f00);
 }
 
 h1 {
